@@ -16,7 +16,8 @@
         "create",
         "create_index",
         "manage",
-        "manage_ilm"
+        "manage_ilm",
+        "admin/auto_create"
       ]
     },
     {
